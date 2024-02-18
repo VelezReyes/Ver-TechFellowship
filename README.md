@@ -9,8 +9,8 @@ Created by [VélezReyes+] philanthropic platform, Ver+ Tech Fellowship is a tale
 <!--Table of content-->
 | Weekly | Main Topic | Link |
 | --- | --- | --- |
-| Week 0[^1] | TypeScrip! | Comming soon |
-| Week 1 | Comming soon | Comming soon |
+| Week 0[^1] | TypeScript & SQL | [Here](https://github.com/VelezReyes/Ver-TechFellowship/wiki/Assignments#week-1) |
+| Week 1 | TypeScript, Python & Data | [Here](https://github.com/VelezReyes/Ver-TechFellowship/wiki/Assignments#week-2---assignments) |
 | Week 2 | Comming soon | Comming soon |
 | Week 3 | Comming soon | Comming soon |
 | Week 4 | Comming soon | Comming soon |
